@@ -1,3 +1,3 @@
 # Data Dojo
 
-![Data Dojo Logo](./data_dojo_logo.jpg)
+<img src="./data_dojo_logo.jpg" alt="Data Dojo Logo" style="max-width:70%;"/>
